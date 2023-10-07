@@ -48,3 +48,5 @@ GUI界面如下：
 关于是否任意一个明密文对都对应了不止一个密钥的情况：
 
 我们采用穷举法，结论如下：
+
+![2`F`)@A5ZLMY2KLRG9 DC5F](https://github.com/newnameno/DES/assets/147228318/92949b68-209e-4e41-9bca-e17903274ed8)
